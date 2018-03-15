@@ -1,0 +1,32 @@
+﻿.navbar-nav li
+{
+	list-style:none;
+	font-size:20px;
+	text-decoration:none;
+
+ }
+.navbar-nav li a
+{
+	text-decoration:none;
+	color:white;
+	
+}
+.navbar-nav li a:hover
+{
+	color:darkorange;
+	
+}
+#banner
+{
+	
+	margin-top:-20px;
+}
+#newest a
+{
+	margin-top:50px;
+	
+}
+#newest a:hover
+{
+	text-decoration:none;
+}

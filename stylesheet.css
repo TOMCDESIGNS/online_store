@@ -1,0 +1,57 @@
+﻿.navbar-nav li
+{
+	list-style:none;
+	font-size:20px;
+	text-decoration:none;
+
+ }
+.navbar-nav li a
+{
+	text-decoration:none;
+	color:white;
+	
+}
+.navbar-nav li a:hover
+{
+	color:darkorange;
+	
+}
+#banner
+{
+	
+	margin-top:-20px;
+}
+#part a
+{
+	
+    color:orange;
+	
+}
+#part a:hover
+{
+	text-decoration:none;
+	color:darkorange;
+    font-size:40px;
+	transition:0.3s;
+	
+}
+#products img
+{
+	height:220px;
+	width:auto;
+}
+#products a:hover
+{
+	text-decoration:none;
+}
+#products a h4:hover
+{
+	
+	color:darkorange;
+    font-size:22px;
+	transition:0.3s;
+}
+#product_div
+{
+	margin-top:100px;
+}
